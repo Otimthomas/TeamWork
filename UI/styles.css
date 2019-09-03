@@ -84,6 +84,11 @@ header {
   padding: 30px;
 }
 
+.isRequired {
+  padding-left: 5px;
+  color: red;
+}
+
 .form input {
   width: 100%;
   border: 1px solid #d8dadf;
